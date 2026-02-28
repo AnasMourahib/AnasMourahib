@@ -40,5 +40,4 @@ Industry positions in **Data Science, Machine Learning, or Research**. Open to r
 
 ---
 
-### 📊 GitHub Stats
-![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnasMourahib&show_icons=true&theme=tokyonight)
+
