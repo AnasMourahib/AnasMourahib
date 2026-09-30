@@ -52,13 +52,14 @@ Implementations in R, C, Python, and Julia accompanying our work on penalized es
 
 ## 📚 Selected Publications
 
-- Mourahib, A., Kiriliouk, A., & Segers, J. (2025).  
+- Mourahib, A., Kiriliouk, A., & Segers, J. (2024).  
   [*Multivariate generalized Pareto distributions along extreme directions*](https://doi.org/10.1007/s10687-024-00501-4).  
   **Extremes, 28**(2), 239–272.
 
-- Mourahib, A., Kiriliouk, A., & Segers, J.  
-  [*Aps://doi.org/10.1016/j.csda.2026.108460.  
-  **Computational Statistics & Data Analysis**.
+- Mourahib, A., Kiriliouk, A., & Segers, J. (2026).  
+  [*A penalized least-squares estimator for extreme-value models with multiple extreme directions*](https://doi.org/10.1016/j.csda.2026.108460).  
+  **Computational Statistics & Data Analysis, 225**, 108460.
+``
 
 ---
 
