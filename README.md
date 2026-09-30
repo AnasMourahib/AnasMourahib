@@ -52,9 +52,9 @@ Implementations in R, C, Python, and Julia accompanying our work on penalized es
 
 ## 📚 Selected Publications
 
-- Mourahib, A., Kiriliouk, A., & Segers, J.  
-  https://doi.org/10.1007/s10687-024-00501-4.  
-  **Extremes**.
+- Mourahib, A., Kiriliouk, A., & Segers, J. (2025).  
+  [*Multivariate generalized Pareto distributions along extreme directions*](https://doi.org/10.1007/s10687-024-00501-4).  
+  **Extremes, 28**(2), 239–272.
 
 - Mourahib, A., Kiriliouk, A., & Segers, J.  
   [*Aps://doi.org/10.1016/j.csda.2026.108460.  
